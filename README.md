@@ -25,5 +25,6 @@ This project is a basic personal website that highlights your strengths, skills,
 
 - HTML5
 - CSS3
+- ![Screenshot_42](https://github.com/Vaibhavibhalke/personal-website/assets/142711357/5c9ae883-0d00-401e-9b88-800711eb1755)
 
 
